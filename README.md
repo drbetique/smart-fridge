@@ -18,7 +18,6 @@ Häme University of Applied Sciences | Spring 2026
 - 1_Thinger_IO_Setup.docx             Step-by-step Thinger.io dashboard setup
 - 2_Google_Vision_Setup.docx          Step-by-step Google Cloud Vision API setup
 - 3_Testing_Guide.docx                Component-by-component test checklist
-- 4_Thesis_Implementation_Chapter.docx  Ready-to-use thesis chapter
 
 ## Order of operations
 1. Fill in config.h files (Wi-Fi, Thinger.io tokens, Google API key)
