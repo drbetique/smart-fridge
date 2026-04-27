@@ -1,0 +1,18 @@
+# PlatformIO build artefacts
+.pio/
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
+
+# Credentials — never commit
+**/include/config.h
+
+# Thesis document (private)
+docs/4_Thesis_Implementation_Chapter.docx
+
+# Claude Code Configuration (DO NOT COMMIT)
+CLAUDE.md
+.claude/
+.claude*
+claude.md
+.anthropic/
